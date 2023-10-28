@@ -1,0 +1,121 @@
+﻿{
+    "Url": "www.epdata.es/condenas-violencia-genero-tribunales-maximo-historicos/6ca4b861-bf60-4dee-8b30-624495ef4467",
+    "Respuesta": {
+        "Id": "6ca4b861-bf60-4dee-8b30-624495ef4467",
+        "Url": "www.epdata.es/condenas-violencia-genero-tribunales-maximo-historicos/6ca4b861-bf60-4dee-8b30-624495ef4467",
+        "Titulo": "Las condenas por violencia de género en los tribunales, en máximo históricos",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "% de condenas",
+                    "SonDatosNumericos": true,
+                    "Fuente": "CGPJ",
+                    "Clasificacion": null,
+                    "Unidad": "%",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Año",
+                            "Parametro": "2008",
+                            "Valor": 62.86,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Año",
+                            "Parametro": "2009",
+                            "Valor": 60.69,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Año",
+                            "Parametro": "2010",
+                            "Valor": 60.15,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 60.03,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Año",
+                            "Parametro": "2012",
+                            "Valor": 59.68,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Año",
+                            "Parametro": "2013",
+                            "Valor": 59.98,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 61.24,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Año",
+                            "Parametro": "2015",
+                            "Valor": 62.66,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Año",
+                            "Parametro": "2016",
+                            "Valor": 65.86,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 67.42,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "2018",
+                            "Valor": 70.46,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "2019",
+                            "Valor": 70.54,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
